@@ -1,0 +1,17 @@
+{
+  "name": "midterm",
+  "version": "1.0.0",
+  "description": "### Live Link   [Home Page](https://google.com)",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jspdf": "^3.0.0",
+    "nodemon": "^3.1.9"
+  }
+}
